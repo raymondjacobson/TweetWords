@@ -1,0 +1,16 @@
+```shell
+
+pip install TwitterSearch
+python fetch_data.py
+
+```
+
+Change it
+```python
+AMT_OF_WORD_TOKENS = 20000
+OUTPUT_FILE = 'output.txt'
+CONSUMER_KEY = 'XXXXXXXXXXXXXXXX'
+CONSUMER_SECRET = 'XXXXXXXXXXXXXXXXXXX'
+ACCESS_TOKEN = 'XXXXXXXXXXXXXXXX'
+ACCESS_SECRET = 'XXXXXXXXXXXXXXX'
+```
